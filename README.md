@@ -49,3 +49,6 @@ If Yummly has no recipes listed with defined preferences, the user is notified a
 
 
 ##### Technologies used: HTML5/CSS3/Javascript/jQuery
+
+
+## a really great project
